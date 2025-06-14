@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/soyabk04/edivscre/issues"
   },
-  "homepage": "https://github.com/soyabk04/edivscre#readme"
+  "homepage": "https://github.com/soyabk04/edivscre#readme",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
